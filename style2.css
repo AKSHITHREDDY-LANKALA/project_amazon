@@ -1,0 +1,54 @@
+p{
+    text-align: left;
+}
+h1{
+     text-align: center; /* used to aligh test and to keep heading on middle */
+     text-align: left;
+}
+/* h1{
+    text-decoration:underline;
+    text-decoration:overline;
+    text-decoration: blue  line-through;
+    text-decoration:green wavy underline overline ;
+} */
+a{
+    text-decoration: none;
+}
+/* #h1{
+    font-weight: 100;
+}
+#h2{
+    font-weight: 600;
+}
+#h3{
+    font-weight: lighter;
+}
+#h4{
+    font-weight: bolder;
+} */
+ #one{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+#two{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#oone{
+    font-size:25px ;
+}
+#twoo{
+    font-size:25px ;         
+}
+#three{
+    font-size:10px ;
+}
+#one{
+    line-height: 16px;
+}
+#two{
+    line-height: 40px;
+}
+#one{
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize ;
+}

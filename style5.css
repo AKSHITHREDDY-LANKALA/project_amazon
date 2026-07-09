@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+#div{
+    height:200px;
+    width:650px;
+    border-style: groove;
+   
+}
+#one{
+    height:100px;
+    width:100px;
+    background-color: red;
+    display: inline-block;
+}
+#two{
+    height:100px;
+    width:100px;
+    background-color:blue;
+}   
+#three{
+    height:100px;
+    width:100px;
+    background-color:orange;
+}
+#four{
+    height:100px;
+    width:100px;
+    background-color:pink;
+}
+div{
+    display: inline-block;
+    border-style: groove;
+    display:flex;
+}

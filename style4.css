@@ -1,0 +1,87 @@
+/* div{
+    background-color: red;
+    display: inline;
+}
+button{
+    background-color: pink;
+    display:block;
+} */
+ /* div{
+ height: 100px;
+width: 100px;
+
+margin: 25px;
+padding: 25px;
+display: inline-block;
+
+ }
+  #div{
+    visibility:hidden;
+ 
+ #box1
+ {
+    background-color: rgba(255,0,0,0);
+ }
+ #box3{
+   background-color:  rgba(255,0,0,0.5);
+ }
+ #box4{
+
+   background-color:  rgba(255,0,0,1);
+ }  */
+ /* #one{
+    height:100px;
+    width:200px;
+background-color: blue;
+font-size: 10px;
+ }
+ #two{
+    
+    /* height:50%;
+    width:30%; */
+    /* background-color: pink;
+     font-size:2em; /*this will give double font size xompared to that of parent*/
+   /* height: 30vh;
+   width:20vh;
+   }  */
+     
+ div{
+   height:100px;
+   width:100px;
+   background-color: aqua;
+   border-style: dashed;
+   display: inline-block;
+  }
+  #one{
+  position:relative;
+   top:0;
+   right:0;/*there will be no change in position as we are using default */
+  }
+  #two{
+   position:relative;
+   top:25px;
+   left:10px;
+   z-index: 5;
+  }
+  /* #three{
+   position:absolute;
+   top:10px;
+   left:25px;  
+  } */
+  #four{
+   position:fixed;
+   top:100px;
+   bottom:100px;
+   right:100px;
+   left:100px
+  }
+  #three{
+   position:sticky;
+   top:0;
+   z-index: 2;
+  }
+  #one{
+   background-image: url("https://static.vecteezy.com/system/resources/thumbnails/057/068/323/small/single-fresh-red-strawberry-on-table-green-background-food-fruit-sweet-macro-juicy-plant-image-photo.jpg");
+   background-size: contain;
+   background-repeat: no-repeat;
+  }
